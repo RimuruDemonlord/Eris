@@ -131,12 +131,15 @@ buttons = [
 
                     
 HELP_STRINGS = """
+Hey there! Myself [Eris BoreasGreyrat](https://telegra.ph/file/959d2bc85a1d4cb2cf372.mp4).
+Have a look at the following for an idea of some of the things I can help you with.
 *Main* commands available:
  ➛ /help: PM's you this message.
  ➛ /help <module name>: PM's you info about that module.
- ➛ /settings:
-    in PM: will send you your settings for all supported modules.
-    in a group: will redirect you to pm, with all that chat's settings.
+ ➛ /bug <error name> : inform support about that error 
+ ➛ /settings: 
+   ❂ in PM: will send you your settings for all supported modules.
+   ❂ in a group: will redirect you to pm, with all that chat's settings.\n• *ʀᴇᴀᴄʜ ᴏᴜᴛ ғᴏʀ sᴜᴘᴘᴏʀᴛ:* [sᴜᴘᴘᴏʀᴛ](https://t.me/NexusXSupport)
 """
 
 GROUP_START_IMG = ""

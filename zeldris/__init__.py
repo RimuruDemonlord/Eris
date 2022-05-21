@@ -115,8 +115,8 @@ if ENV:
     PORT = int(os.environ.get("PORT", 5000))
     CERT_PATH = os.environ.get("CERT_PATH")
     MONGO_DB_URI = os.environ.get("MONGO_DB_URI", None)
-    DB_URI = "postgresql://lcxdmecj:m1DTxq9pIupZW06XLM4AN89xsNIcbGJe@castor.db.elephantsql.com/lcxdmecj"
-    REDIS_URL = "redis://KawakiGod:KawakiGod64~@redis-12067.c285.us-west-2-2.ec2.cloud.redislabs.com:12067"
+    DB_URI = os.environ.get("SQLALCHEMY_DATABASE_URL")
+    REDIS_URL = os.environ.get("REDIS_URL")
     HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME")
     HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY")
     DONATION_LINK = os.environ.get("DONATION_LINK")
@@ -194,8 +194,8 @@ else:
     PORT = Config.PORT
     CERT_PATH = Config.CERT_PATH
 
-    DB_URI = "postgresql://lcxdmecj:m1DTxq9pIupZW06XLM4AN89xsNIcbGJe@castor.db.elephantsql.com/lcxdmecj"
-    REDIS_URL = "redis://KawakiGod:KawakiGod64~@redis-12067.c285.us-west-2-2.ec2.cloud.redislabs.com:12067"
+    DB_URI = Config.SQLALCHEMY_DATABASE_URL
+    REDIS_URL = Config.REDIS_URL
     DONATION_LINK = Config.DONATION_LINK
     LOAD = Config.LOAD
     NO_LOAD = Config.NO_LOAD
@@ -207,7 +207,7 @@ else:
     CUSTOM_CMD = Config.CUSTOM_CMD
     API_WEATHER = Config.API_OPENWEATHER
     WALL_API = Config.WALL_API
-    SUPPORT_CHAT = "Villainevil_Support"
+    SUPPORT_CHAT = "NexusXSupport"
     API_HASH = Config.API_HASH
     API_ID = Config.API_ID
     SPAMWATCH = Config.SPAMWATCH_API

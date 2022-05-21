@@ -95,8 +95,8 @@ PM_START_TEXT = """
 *ᴀ ᴍᴜʟᴛɪ-ꜰᴇᴀᴛᴜʀᴇᴅ ᴄʜᴀᴛ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ*
 
 ❍ *ꜱᴇʀᴠᴇʀ ᴜᴘᴛɪᴍᴇ :* `{}`
-❍ *ᴠᴇʀꜱɪᴏɴ :* 3.10.2
-• `{}` *users, across* `{}` *chats.*
+❍ *ᴠᴇʀꜱɪᴏɴ :* `3.10.2`
+❍ `{}` *users, across* `{}` *chats.*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 *Try The Help Buttons Below To Know My Abilities And Charm* ××
 """

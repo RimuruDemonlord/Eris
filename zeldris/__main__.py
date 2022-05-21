@@ -86,7 +86,7 @@ def get_readable_time(seconds: int) -> str:
 
 HELP_IMG = "https://telegra.ph/file/959d2bc85a1d4cb2cf372.mp4"
 HELP_MSG = "ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ʜᴇʟᴘ ᴍᴇɴᴜ ɪɴ ʏᴏᴜʀ ᴘᴍ."
-START_MSG = "I'm awake already!\n<b>Haven't slept since:</b> <code>{}</code>"
+START_MSG = "ᴋᴏɴ'ɴɪᴄʜɪᴡᴀ ,\n<b>ɪ ᴀᴍ ᴇʀɪꜱ ʙᴏʀᴇᴀꜱ ɢʀᴇʏʀᴀᴛ\n<b>ʜᴇʀᴇ ᴛᴏ ꜱʟᴀꜱʜ ꜱᴏᴍᴇ ᴍᴏɴꜱᴛᴇʀ , ɪ ᴍᴇᴀɴ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ\n<b>ʜᴀᴠᴇɴ'ᴛ ꜱʟᴇᴇᴘ ꜱɪɴᴄᴇ :</b> <code>{}</code>"
 START_IMG = "https://telegra.ph/file/d85f39ca5e58ef5644401.mp4"
     
 PM_START_TEXT = """

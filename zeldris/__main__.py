@@ -262,17 +262,17 @@ def start(update: Update, context: CallbackContext):
             )
     else:
                 update.effective_message.reply_video(
-            START_IMG, caption="ʏᴏ, Voilet ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ!\n<b>Haven't slept since:</b> <code>{}</code>".format(
+            START_IMG, caption="ᴋᴏɴ'ɴɪᴄʜɪᴡᴀ ,\n<b>ɪ ᴀᴍ ᴇʀɪꜱ ʙᴏʀᴇᴀꜱ ɢʀᴇʏʀᴀᴛ\n<b>ʜᴇʀᴇ ᴛᴏ ꜱʟᴀꜱʜ ꜱᴏᴍᴇ ᴍᴏɴꜱᴛᴇʀ , ɪ ᴍᴇᴀɴ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ\n<b>ʜᴀᴠᴇɴ'ᴛ ꜱʟᴇᴇᴘ ꜱɪɴᴄᴇ :</b> <code>{}</code>".format(
                 uptime,
             ),
             parse_mode=ParseMode.HTML,
              reply_markup=InlineKeyboardMarkup(
                 [
                   [
-                  InlineKeyboardButton(text="❤Sᴜᴘᴘᴏʀᴛ❤", url="https://telegram.dog/Villainevil_support")
+                  InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ", url="https://telegram.dog/NexusXSupport")
                   ],
                   [
-                  InlineKeyboardButton(text="🔰Uᴘᴅᴀᴛᴇs🔰", url="https://telegram.dog/Dabi_updates")
+                  InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇs", url="https://telegram.dog/TeamNexusX")
                   ]
                 ]
             ),

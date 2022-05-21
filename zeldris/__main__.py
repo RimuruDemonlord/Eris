@@ -304,7 +304,7 @@ def error_handler(update, context):
     if len(message) >= 4096:
         message = message[:4096]
     # Finally, send the message
-    context.bot.send_message(chat_id=-1001501815938, text=message, parse_mode=ParseMode.HTML)
+    context.bot.send_message(chat_id=-1001733372611, text=message, parse_mode=ParseMode.HTML)
 
 
 # for test purposes
@@ -632,7 +632,7 @@ def donate(update: Update, context: CallbackContext):
     bot = context.bot
     update.effective_message.reply_text(
         "You can also donate to the person currently running me "
-        "[here](https://ko-fi.com/AuraMoon55)",
+        "[here](https://t.me/ElDoradoo",
         parse_mode=ParseMode.MARKDOWN,
     )
 
@@ -664,8 +664,8 @@ def main():
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
             dispatcher.bot.send_photo(
-                "@Villainevil_support",
-                "https://telegra.ph/file/363b020f4bd4810ea35b6.jpg",
+                "@NexusXSupport",
+                "https://te.legra.ph/file/0621662848ad9603dddb6.mp4",
                 "I Am Alive Now!",
                 parse_mode=ParseMode.MARKDOWN,
             )

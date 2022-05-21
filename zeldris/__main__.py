@@ -112,17 +112,17 @@ GROUP_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="💖 ADD ME IN YOUR GROUP",url="t.me/voilet_probot?startgroup=true"),
+            text="➕ ᴀᴅᴅ ᴇʀɪꜱ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕",url="t.me/erisxrobot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
-            text="⚙️ Support", url=f"https://t.me/villainevil_support"),
+            text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/NexusXSupport"),
         InlineKeyboardButton(
-            text="🎉 Updates", url="https://t.me/dabi_updates")
+            text="ᴜᴘᴅᴀᴛᴇꜱ", url="https://t.me/TeamNexusX")
     ],
     [                    
         InlineKeyboardButton(
-            text="🔐 Help", callback_data="help_back"
+            text="ʜᴇʟᴘ & ᴄᴍᴅꜱ", callback_data="help_back"
         ),
     ],
 ]

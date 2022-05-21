@@ -123,6 +123,8 @@ buttons = [
     [                    
         InlineKeyboardButton(
             text="ʜᴇʟᴘ & ᴄᴍᴅꜱ", callback_data="help_back"
+        InlineKeyboardButton(
+            text="ᴇʟᴅᴏʀᴀᴅᴏ™", url="https://t.me/Eldoradoo")
         ),
     ],
 ]

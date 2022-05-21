@@ -103,8 +103,10 @@ PM_START_TEXT = """
 """
 
 GROUP_START_TEXT = """
-I'm awake already!
-Haven't slept since: {}
+ᴋᴏɴ'ɴɪᴄʜɪᴡᴀ ,
+ɪ ᴀᴍ ᴇʀɪꜱ ʙᴏʀᴇᴀꜱ ɢʀᴇʏʀᴀᴛ 
+ʜᴇʀᴇ ᴛᴏ ꜱʟᴀꜱʜ ꜱᴏᴍᴇ ᴍᴏɴꜱᴛᴇʀ , ɪ ᴍᴇᴀɴ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ
+ʜᴀᴠᴇɴ'ᴛ ꜱʟᴇᴇᴘ ꜱɪɴᴄᴇ : {}
 """
 
 buttons = [

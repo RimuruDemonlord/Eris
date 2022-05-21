@@ -96,9 +96,10 @@ PM_START_TEXT = """
 
 ❍ *ꜱᴇʀᴠᴇʀ ᴜᴘᴛɪᴍᴇ :* `{}`
 ❍ *ᴠᴇʀꜱɪᴏɴ :* `3.10.2`
-❍ `{}` *users, across* `{}` *chats.*
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
-*Try The Help Buttons Below To Know My Abilities And Charm* ××
+❍ `{}` *ᴜꜱᴇʀꜱ , ᴀᴄʀᴏꜱꜱ* `{}` *ᴄʜᴀᴛꜱ.*
+
+*ᴛʀʏ ᴛʜᴇ /help ʙᴜᴛᴛᴏɴꜱ ᴛᴏ ᴋɴᴏᴡ ᴍʏ ᴀʙɪʟɪᴛɪᴇꜱ ᴀɴᴅ ᴄʜᴀʀᴍ* ××
+*𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 [𝗧𝗲𝗮𝗺𝗡𝗲𝘅𝘂𝘀𝗫](https://t.me/TeamNexusX)*
 """
 
 GROUP_START_TEXT = """

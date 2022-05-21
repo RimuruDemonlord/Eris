@@ -90,12 +90,12 @@ START_MSG = "ᴋᴏɴ'ɴɪᴄʜɪᴡᴀ ,\n<b>ɪ ᴀᴍ ᴇʀɪꜱ ʙᴏʀᴇᴀ
 START_IMG = "https://te.legra.ph/file/0621662848ad9603dddb6.mp4"
     
 PM_START_TEXT = """
-────「 [{}](https://telegra.ph/file/d8d515b36537c6375246d.jpg) 」────
-Heyyo `{}`, Voilet here to help,
-*I am an Anime themed advance group management bot with a lot of awesome Features*
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
-• *Uptime:* `{}`
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+——— 「 [Eris Boreas Greyrat](https://telegra.ph/file/b4c2476db13d7e158bf00.mp4) 」 ———
+ᴋᴏɴ'ɴɪᴄʜɪᴡᴀ `{}`- ꜱᴀɴ!  
+*ᴀ ᴍᴜʟᴛɪ-ꜰᴇᴀᴛᴜʀᴇᴅ ᴄʜᴀᴛ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ*
+
+❍ *ꜱᴇʀᴠᴇʀ ᴜᴘᴛɪᴍᴇ :* `{}`
+❍ *ᴠᴇʀꜱɪᴏɴ :* 2.0.1
 • `{}` *users, across* `{}` *chats.*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 *Try The Help Buttons Below To Know My Abilities And Charm* ××
